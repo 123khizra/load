@@ -1,0 +1,3 @@
+// JavaScript Document
+
+var data=[{"customerID":1,"customername":"Muhammad Bilal","country":"Pakistan","Age":25},{"customerID":2,"customername":"John Smith","country":"United Kingdom","Age":22},{"customerID":3,"customername":"JohSON","country":"U.S.A","Age":23},{"customerID":4,"customername":"Mathew","country":"Sri lanka","Age":28},{"customerID":5,"customername":"Akash","country":"India","Age":20}]
